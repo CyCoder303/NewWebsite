@@ -1,0 +1,31 @@
+<table>
+<thead>
+  <tr>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+  </tr>
+</thead>
+<tbody>
+<img src = "">
+  <tr>
+    <td>Hobbies:</td>
+    <td>Coding</td>
+    <td>Chess</td>
+    <td>Soccer</td>
+  </tr>
+  <tr>
+    <td>Best Foods:</td>
+    <td>Poutine</td>
+    <td>Korean BBQ chicken</td>
+    <td>Ramen</td>
+  </tr>
+  <tr>
+    <td>Best Games</td>
+    <td>Minecraft</td>
+    <td></td>
+    <td></td>
+  </tr>
+</tbody>
+</table>
